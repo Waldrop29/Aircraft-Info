@@ -1,0 +1,69 @@
+.home {
+    font-size: 13px;
+    background-image: url("C:\\code\\waldrop29.github.io\\Aircraft-Info\\homeimg.jpg"); 
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+    
+    background-blend-mode: overlay;
+    background-color: rgba(248, 250, 252, 0.85); 
+}
+body {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.airbus {
+    font-size: 13px;
+    background-image: url('C:\\code\\waldrop29.github.io\\Aircraft-Info\\airbustail.jpg');
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+
+    background-blend-mode: overlay;
+    background-color: rgba(248, 250, 252, 0.85);
+}
+
+.a330 {
+    font-size: 13px;
+    background-image: url('C:\\code\\waldrop29.github.io\\Aircraft-Info\\a330tail.jpg');
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+
+    background-blend-mode: overlay;
+    background-color: rgba(248, 250, 252, 0.85);
+}
+
+.a340 {
+    font-size: 13px;
+    background-image: url("C:\\code\\waldrop29.github.io\\Aircraft-Info\\a340tail.jpg");
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+
+    background-blend-mode: overlay;
+    background-color: rgba(248, 250, 252, 0.85);
+}
+
+.a350 {
+    font-size: 13px;
+    background-image: url("C:\\code\\waldrop29.github.io\\Aircraft-Info\\a350tail.jpg");
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+
+    background-blend-mode: overlay;
+    background-color: rgba(248, 250, 252, 0.85);
+}
+
+.a380 {
+    font-size: 13px;
+    background-image: url("C:\\code\\waldrop29.github.io\\Aircraft-Info\\a380tail.jpg");
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+
+    background-blend-mode: overlay;
+    background-color: rgba(248, 250, 252, 0.85);
+}
